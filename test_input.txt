@@ -1,0 +1,6 @@
+Hello, how are you?
+What is artificial intelligence?
+Explain quantum computing
+Help me with programming
+Thank you
+exit
